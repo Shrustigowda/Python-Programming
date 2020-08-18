@@ -1,51 +1,52 @@
-1] print("Hello world")
-   #This program prints Hello world.
-   
+7] x=123.456
+   print(x)
+   x="This is a string"
+   print(x+"!")
+  
   OUTPUT:
-   Hello world
-
-2] a=1
-   b=2
-   print(a+b)
-   #This program adds two numbers.
-   
-  OUTPUT:
-   3
-   
-3] Program  to find the Simple Interest.
-   #different inputs
-     P=1
-     R=1
-     T=1
-   #calculate the simple interest.
-     SI=P*R*T/100
-   #print the resultant value of SI.
-     print("Simple Interest=",SI)
-     
-   OUTPUT:
-    Simple Interest=0.01
-    
- 4] What is the output of this code.
-       7!=8
-       print(7!=8)
-       
-     OUTPUT:
-      True
+    123.456
+    This is a string
       
-  5] What is the output of the following code?
-          x=7
-          print(x)
-          print(x+3)
-          print(x)
-          
-      OUTPUT:
-        7
-        10
-        7
+8] Write a python script to take the input from the user .Subtract 10 from it and print the result
+      
+       print ("enter the number:")
+       x=int(input())
+       y=x-10
+       print("Result=",y)
+         
+     OUTPUT:
+       enter the number:
+            20
+       Result=10
+                  [or]
+      
+      print("enter the number:")
+      x=int(input())
+      print(x-10)
+      
+    OUTPUT:
+      enter the number:
+         20
+         
+         10
+         
+   9] Write a python script to take a string(sentence) from the user and print it.
         
-  6] What is the output of this code?
-        a=" eggs"
-        print(a*3)
-        
-      OUTPUT:
-        eggs eggs eggs
+      print("enter the string:")
+      a=input()
+      print(a)
+    OUTPUT:
+      enter the string:
+         world
+         
+         world
+                   [or]
+            
+       print("enter the string:")
+       a=input()
+       print("String=",a)
+    OUTPUT:
+      enter the string:
+         world
+      String=world   
+      

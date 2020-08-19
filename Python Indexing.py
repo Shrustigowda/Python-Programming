@@ -1,5 +1,5 @@
 INDEXING IN PYTHON..
-**Every word inn this string has a unique index i,e position of the word in the particular value.
+**Every word in this string has a unique index i,e position of the word in the particular value.
 **In the string the number will begin from zero.
 
 EXAMPLES:-
